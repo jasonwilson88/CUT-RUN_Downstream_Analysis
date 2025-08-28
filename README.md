@@ -2,7 +2,7 @@
 
 Automated CUT&RUN processing + peak calling + blacklisting + BED/annotation +
 replicate merging + square plots — with multi-antibody support and optional
-condition contrasts (e.g., `Het` vs `Wt`).
+condition contrasts (e.g., `Wt` vs `Het`).
 
 - **Robust inputs**: handles TF *and* histone modes per antibody.
 - **Idempotent** reruns: BigWigs + matrices + heatmaps can be skipped.
